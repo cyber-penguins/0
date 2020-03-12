@@ -6,6 +6,6 @@ This is a collection of tools, resources, etc that we've found helpful along our
 
 # [Pen Testing](https://github.com/cyber-penguins/pentest)
 
-# [Malware]
+# Malware
 
-# [Learning Resources]
+# Learning Resources
