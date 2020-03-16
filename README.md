@@ -15,4 +15,4 @@ This is a collection of tools, resources, etc that we've found helpful along our
 
 # [Malware](https://github.com/cyber-penguins/malware)
 
-# Learning Resources
+# [Learning Resources](https://github.com/cyber-penguins/learning/blob/master/README.md)
