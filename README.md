@@ -1,9 +1,11 @@
 ## Welcome to Cyber Penguins
+![naruto](https://user-images.githubusercontent.com/61938680/76793804-1bf7b880-679c-11ea-93dd-3cca2e8b12ae.png)
+![wolverine](https://user-images.githubusercontent.com/61938680/76793806-1bf7b880-679c-11ea-8008-128301d3009c.png)
+![rambo](https://user-images.githubusercontent.com/61938680/76793807-1bf7b880-679c-11ea-9f24-736ee0fd6050.jpeg)
+![darth](https://user-images.githubusercontent.com/61938680/76793808-1bf7b880-679c-11ea-8dc1-1d0b5d7195dd.jpg)
+![deadpool](https://user-images.githubusercontent.com/61938680/76793809-1c904f00-679c-11ea-817e-b4ba430414de.png)
+![capt](https://user-images.githubusercontent.com/61938680/76793811-1c904f00-679c-11ea-8225-0237bc1569a4.png)
 
-![rambo](https://user-images.githubusercontent.com/61938680/76793312-35e4cb80-679b-11ea-8c1c-22ca0d729d47.jpeg)
-![darth](https://user-images.githubusercontent.com/61938680/76793313-35e4cb80-679b-11ea-9f6b-c7dd6354a833.jpg)
-![deadpool](https://user-images.githubusercontent.com/61938680/76793314-35e4cb80-679b-11ea-90bf-e1950f3628dc.png)
-![capt](https://user-images.githubusercontent.com/61938680/76793315-35e4cb80-679b-11ea-9bbd-e504c0e3626f.png)
 
 This is a collection of tools, resources, etc that we've found helpful along our journey. This is just the start...and we'll continue to add more content as we go.
 
